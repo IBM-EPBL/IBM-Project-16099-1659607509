@@ -30,7 +30,7 @@
 
 #   ASSIGNMENTS
 
-1.     KISHOK KUMAR P   - [ASSIGNMENTS]([url](https://github.com/IBM-EPBL/IBM-Project-16099-1659607509/blob/main/Assignments/Team%20Lead/Kishok%20Kumar_Assignment_1.ipynb))
+1.     KISHOK KUMAR P   - ASSIGNMENTS
 2.     HARI KRISHNAN K  - 810419104032
 3.     DHINESH R        - 810419104023
 4.     GURU PRASATH T   - 810419104028
